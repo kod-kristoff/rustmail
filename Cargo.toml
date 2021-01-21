@@ -8,5 +8,4 @@ edition = "2018"
 
 [dependencies]
 imap = "2.4.1"
-lettre = "0.9.5"
-lettre_email = "0.9.4"
+lettre = "0.10.0.alpha.4"
